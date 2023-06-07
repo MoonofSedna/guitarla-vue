@@ -20,7 +20,7 @@ defineProps({
         class="row justify-content-center justify-content-md-between"
       >
         <div class="col-8 col-md-3">
-          <a href="index.html">
+          <a href="/">
             <img
               class="img-fluid"
               src="/img/logo.svg"
